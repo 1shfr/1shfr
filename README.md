@@ -1,1 +1,1 @@
-![chat](https://raw.githubusercontent.com/1shfr/1shfr/0b463111afa71613fa531f88aeb50c743dc3b506/asset/chat.svg)
+![chat](https://raw.githubusercontent.com/1shfr/1shfr/ab498574db2d82cd324d84e6a7c461dc4f54fd5b/asset/chat.svg)

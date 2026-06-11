@@ -307,7 +307,7 @@
     </defs>
 
     <image
-      href="asset/pfp.jpg"
+      href="/asset/pfp.jpg"
       x="0"
       y="2"
       width="40"
@@ -346,7 +346,7 @@
     </defs>
 
     <image
-      href="asset/pfp.jpg"
+      href="/asset/pfp.jpg"
       x="0"
       y="2"
       width="40"
@@ -374,7 +374,7 @@
   <g transform="translate(60, 48)" class="msg-2">
     <rect width="252" height="90" rx="18" class="bubble" />
     <text x="15" y="27">Origin: Earth</text>   <image
-        href="asset/earth-round.gif"
+        href="/asset/earth-round.gif"
         x="115"
         y="2"
         width="60"
@@ -393,7 +393,7 @@
     </defs>
 
     <image
-      href="asset/pfp.jpg"
+      href="/asset/pfp.jpg"
       x="0"
       y="2"
       width="40"
@@ -423,7 +423,7 @@
         <text x="15" y="27">Achievements:</text>
         <text x="15" y="50">✓ survived B.Tech(CSE)</text>
           <image
-            href="asset\slam-dunk.gif"
+            href="asset/slam-dunk.gif"
             x="206"
             y="32"
             width="40"
@@ -431,7 +431,7 @@
           />    
         <text x="15" y="73">✗ found purpose</text>
         <image
-            href="asset\sad-man-alone.gif"
+            href="asset/sad-man-alone.gif"
             x="156"
             y="56"
             width="40"
@@ -447,7 +447,7 @@
     </defs>
 
     <image
-      href="asset/pfp.jpg"
+      href="/asset/pfp.jpg"
       x="0"
       y="2"
       width="40"
@@ -487,7 +487,7 @@
     </defs>
 
     <image
-      href="asset/pfp.jpg"
+      href="/asset/pfp.jpg"
       x="0"
       y="2"
       width="40"
@@ -526,7 +526,7 @@
     </defs>
 
     <image
-      href="asset/pfp.jpg"
+      href="/asset/pfp.jpg"
       x="0"
       y="2"
       width="40"
@@ -564,7 +564,7 @@
     </defs>
 
     <image
-      href="asset/pfp.jpg"
+      href="/asset/pfp.jpg"
       x="0"
       y="2"
       width="40"
@@ -592,7 +592,7 @@
   <g transform="translate(60, 432)" class="msg-7">
     <rect width="120" height="120" rx="18" class="bubble" />
     <image
-        href="asset\cat-beats-cat-aggr-meme.gif"
+        href="/asset/cat-beats-cat-aggr-meme.gif"
         x="15"
         y="5"
         width="100"

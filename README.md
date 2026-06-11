@@ -1,1 +1,1 @@
-![chat](asset/chat.png)
+![chat](asset/chat.svg)
